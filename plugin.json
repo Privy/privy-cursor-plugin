@@ -1,0 +1,22 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "privy",
+  "version": "0.1.0",
+  "description": "Analyze email, SMS, campaigns, flows, displays, contacts, orders, products, segments, and revenue with live data from your Privy account.",
+  "author": {
+    "name": "Privy",
+    "url": "https://www.privy.com"
+  },
+  "homepage": "https://help.privy.com/docs/learn/mcp",
+  "license": "MIT",
+  "keywords": [
+    "privy",
+    "email",
+    "sms",
+    "ecommerce",
+    "mcp",
+    "campaigns",
+    "flows",
+    "displays"
+  ]
+}
